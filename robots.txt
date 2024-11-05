@@ -1,0 +1,7 @@
+User-Agent: *
+Disallow: /login
+
+Sitemap: https://omuriahi.github.io/Fef/sitemap_index.txt
+Sitemap: https://omuriahi.github.io/LaQ/sitemap_index.txt
+Sitemap: https://omuriahi.github.io/pvY/sitemap_index.txt
+Sitemap: https://omuriahi.github.io/vZC/sitemap_index.txt
